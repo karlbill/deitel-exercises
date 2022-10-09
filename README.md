@@ -1,1 +1,1 @@
-# deitel-exercises
+# Deitel Exercises
